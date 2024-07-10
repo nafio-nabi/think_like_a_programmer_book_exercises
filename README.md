@@ -1,1 +1,2 @@
-# Think Like a Programmer Book Exercises
+# Think Like a Programmer
+This repository contains the code for the Think Like a Programmer book exercises.
