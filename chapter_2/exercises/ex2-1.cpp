@@ -1,8 +1,6 @@
 #include <iostream>
-#include <iomanip>
 using std::cin;
 using std::cout;
-using std::setw;
 
 int main() {
     int counter = 0;
